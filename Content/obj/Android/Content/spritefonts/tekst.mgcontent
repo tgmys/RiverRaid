@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tomasz/Desktop/Nowy folder/RiverRaid/RiverRaid/Content/spritefonts/tekst.spritefont</SourceFile>
+  <SourceTime>2019-03-27T16:29:48+01:00</SourceTime>
+  <DestFile>C:/Users/Tomasz/Desktop/Nowy folder/RiverRaid/RiverRaid/Content/bin/Android/Content/spritefonts/tekst.xnb</DestFile>
+  <DestTime>2019-06-01T12:43:09.1940587+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tomasz/Desktop/Nowy folder/RiverRaid/RiverRaid/Content/sound/hitSound.wav</SourceFile>
+  <SourceTime>2019-02-26T19:23:10+01:00</SourceTime>
+  <DestFile>C:/Users/Tomasz/Desktop/Nowy folder/RiverRaid/RiverRaid/Content/bin/Android/Content/sound/hitSound.xnb</DestFile>
+  <DestTime>2019-06-02T13:07:47.8956238+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
